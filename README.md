@@ -1,7 +1,7 @@
 <h1 align="center">Emmanuel Jose Rua Caballero</h1>
 
 <p align="center">
-Estudiante de Ingeniería de Sistemas | Enfoque en Desarrollo Backend y Bases de Datos
+Estudiante de Ingeniería de Sistemas
 </p>
 
 <hr>
@@ -10,7 +10,7 @@ Estudiante de Ingeniería de Sistemas | Enfoque en Desarrollo Backend y Bases de
 
 <p>
 Estudiante de Ingeniería de Sistemas con experiencia en el desarrollo de aplicaciones web utilizando 
-<strong>Java, Spring Boot, Angular y MySQL</strong>. 
+<strong>Java, Spring Boot, Angular, React, Django y MySQL</strong>. 
 Sólida base en Programación Orientada a Objetos, diseño de bases de datos relacionales 
 y construcción de APIs REST.
 </p>
@@ -32,15 +32,14 @@ de soluciones escalables aplicando buenas prácticas de desarrollo.
 <ul>
 <li>Java</li>
 <li>Python</li>
+<li>TypeScript</li>
 <li>SQL</li>
 </ul>
 
 <strong>Backend</strong>
 <ul>
 <li>Spring Boot</li>
-<li>Desarrollo de APIs REST</li>
-<li>Arquitectura MVC</li>
-<li>Programación Orientada a Objetos</li>
+<li>Django</li>
 </ul>
 
 </td>
@@ -50,6 +49,7 @@ de soluciones escalables aplicando buenas prácticas de desarrollo.
 <strong>Frontend</strong>
 <ul>
 <li>Angular</li>
+<li>React</li>
 <li>HTML</li>
 <li>CSS</li>
 </ul>
@@ -57,8 +57,6 @@ de soluciones escalables aplicando buenas prácticas de desarrollo.
 <strong>Bases de Datos</strong>
 <ul>
 <li>MySQL</li>
-<li>Diseño de bases de datos relacionales</li>
-<li>Consultas SQL</li>
 </ul>
 
 <strong>Herramientas</strong>
@@ -72,28 +70,6 @@ de soluciones escalables aplicando buenas prácticas de desarrollo.
 </td>
 </tr>
 </table>
-
-<hr>
-
-<h2>Proyectos Destacados</h2>
-
-<h3>API REST con Spring Boot y MySQL</h3>
-<p>
-Aplicación backend con arquitectura por capas, implementación de operaciones CRUD, 
-validaciones y conexión a base de datos relacional.
-</p>
-
-<h3>Aplicación Web Full Stack</h3>
-<p>
-Proyecto integrando Angular en el frontend y Spring Boot en el backend, 
-con comunicación mediante servicios REST y persistencia de datos en MySQL.
-</p>
-
-<h3>Proyectos de Análisis de Datos</h3>
-<p>
-Desarrollo de dashboards y reportes utilizando Power BI y Excel para visualización 
-y análisis de información.
-</p>
 
 <hr>
 
